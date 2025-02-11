@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Amit29x**
 
-- 📝 I regularly write articles on [amit29x.blogspot.com](amit29x.blogspot.com)
+- 📝 I regularly write articles on [amit29x.blogspot.com](www.amit29x.blogspot.com)
 
 - 📫 How to reach me **amit29help@gmail.com**
 
