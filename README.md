@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width+400" src"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ3ajFhNmFwcHkzeDdxNnQwY3A3bmIxdzE3Z2JoN3Bkbmg2c3dseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
+<img align="right" alt="Coding" width+400" <src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ3ajFhNmFwcHkzeDdxNnQwY3A3bmIxdzE3Z2JoN3Bkbmg2c3dseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit29x&label=Profile%20views&color=0e75b6&style=flat" alt="amit29x" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amit29x" target="blank"><img src="https://img.shields.io/twitter/follow/amit29x?logo=twitter&style=for-the-badge" alt="amit29x" /></a> </p>
 
 - 🔭 I’m currently working on **Amit29x**
-
-- 📝 I regularly write articles on [amit29x.blogspot.com](www.amit29x.blogspot.com)
 
 - 📫 How to reach me **amit29help@gmail.com**
 
