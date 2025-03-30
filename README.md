@@ -9,9 +9,9 @@
 
 - 🎓 **Civil Draftsman** | **AutoCAD 2D & 3D** | **SketchUp Learner**  
 - 🌱 Currently exploring **3D Design & Visualization**  
-- 🔭 Working on **personal projects to enhance my design skills**  
-- 📫 Reach me at **amit29help@gmail.com**  
-- ⚡ Fun fact: **I believe coffee can solve 90% of my problems!** ☕
+- 🌟 Working on **personal projects to enhance my design skills**  
+- 💌 Reach me at **@amit29x**  
+- ⚡ Fun fact: **I believe coffee can solve 90% of my problems!** ☕  
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amit29x&show_icons=true&theme=radical" alt="Amit's GitHub Stats">
@@ -52,6 +52,7 @@
 ### 🔗 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/amit29x"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.threads.net/@amit29x"><img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
   <a href="https://twitter.com/amit29x"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://instagram.com/amit29x"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.behance.net/amit29x"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
