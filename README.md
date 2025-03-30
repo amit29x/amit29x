@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="400" alt="Civil Engineering Animation">
+  <img src="https://media.giphy.com/media/l41lGnxVqaLztK9rG/giphy.gif" width="400" alt="Civil Drafting Animation">
 </p>
 
 ### 🚀 About Me
@@ -10,7 +10,7 @@
 - 🎓 **Civil Draftsman** | **AutoCAD 2D & 3D** | **SketchUp Learner**  
 - 🌱 Currently exploring **3D Design & Visualization**  
 - 🌟 Working on **personal projects to enhance my design skills**  
-- 💌 Reach me at **@amit29x**  
+- 📩 Reach me at **@amit29x**  
 - ⚡ Fun fact: **I believe coffee can solve 90% of my problems!** ☕  
 
 ---
