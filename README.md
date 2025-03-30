@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Amit! 🚀</h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/l0HlRincOBSIi5oxG/giphy.gif" width="400" alt="Architectural Animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamEwMXU3cGljM2diYjJiZGYwZjhydzl0NWh5MGQ2cWR6cjYxdjF0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69ANOOQpYFUiJFHAVW/giphy.gif" width="400" alt="Architectural Animation">
 </p>
 
 ---
