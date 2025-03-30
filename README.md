@@ -1,39 +1,41 @@
-### Hi there, I'm Amit ✨
+<h1 align="center">👋 Hi there, I'm Amit! 🚀</h1>
 
-<h1 align="center">Welcome to My GitHub Profile!</h1>
 <p align="center">
   <img src="https://media4.giphy.com/media/l0HlRincOBSIi5oxG/giphy.gif" width="400" alt="Architectural Animation">
 </p>
 
-### 🚀 About Me
+---
 
-- 🎓 **Civil Draftsman** | **AutoCAD 2D & 3D** | **SketchUp Learner**  
-- 🌱 Currently exploring **3D Design & Visualization**  
-- 🌟 Working on **personal projects to enhance my design skills**  
-- 📩 Reach me at **@amit29x**  
-- ⚡ Fun fact: **I believe coffee can solve 90% of my problems!** ☕  
+### 🚀 About Me  
+
+🎓 **Civil Draftsman** | **AutoCAD 2D & 3D** | **SketchUp Learner**  
+💡 Passionate about **3D Design & Architectural Visualization**  
+🔍 Exploring **BIM (Building Information Modeling) & Structural Drafting**  
+🛠️ Constantly improving my **technical skills & creative designs**  
+📩 Reach me at **@amit29x**  
+☕ Fun fact: **I believe coffee can solve 90% of my problems!**  
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools  
 
-#### **Design & Drafting**
+#### 🎨 **Design & Drafting**  
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-red?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/-SketchUp-blue?style=for-the-badge&logo=sketchup&logoColor=white)
 
-#### **Development & Scripting**
+#### 🖥️ **Development & Scripting**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### **Tools & Platforms**
+#### 🛠️ **Tools & Platforms**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ---
 
-### 💊 GitHub Stats
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amit29x&show_icons=true&theme=radical" alt="Amit's GitHub Stats">
@@ -49,7 +51,8 @@
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect with Me  
+
 <p align="center">
   <a href="https://linkedin.com/in/amit29x"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.threads.net/@amit29x"><img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"></a>
@@ -60,12 +63,21 @@
 
 ---
 
-### ☕ Support My Work
+### ☕ Support My Work  
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/amit29x"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"></a>
 </p>
 
 ---
 
-### 💡 Fun Fact
-> "Great designs aren't just made, they're experienced!" 🚀
+### 💡 Fun Fact  
+
+> **"Great designs aren't just made, they're experienced!"** 🚀  
+
+---
+
+### 🚀 Let's Build Something Awesome Together!  
+💬 **Have an idea? Let's collaborate!**  
+📩 **DM me on LinkedIn or Twitter!**  
+
