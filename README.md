@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lGnxVqaLztK9rG/giphy.gif" width="400" alt="Civil Drafting Animation">
+  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="400" alt="Architectural Animation">
 </p>
 
 ### 🚀 About Me
